@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Mustafa Binar.
-- 👀 I’m interested in Data Science, Data Analysis, R, and I have learned programming languages since 2019. 
+- 👋 Hi, I'm Mustafa Binar. I'm a statistician since 2007. I have experience 15 years in applied statistics and data analysis.
+- 👀 I have interested in Data Science, Data Analysis, R since 2008, and I have learned programming languages since 2019. 
 - 🌱 I’m currently learning JavaScript(backend and frontend developer), and C#(Backend developer--Entityframework, .Net5/6)
 - 📫 How to reach me Stat.mustafa.binar@gmail.com.
